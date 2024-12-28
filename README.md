@@ -1,6 +1,4 @@
-# User Experience Engineering​ - SE3050
-
-## Project: TutorME
+# Project: TutorME
 
 ## Members
 
